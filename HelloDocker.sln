@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloDocker", "HelloDocker\HelloDocker.csproj", "{C184FDCC-F935-416A-BE19-0F96EA228180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClass", "MyClass\MyClass.csproj", "{4784F214-DB27-42E8-A55F-2900740E5F7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C184FDCC-F935-416A-BE19-0F96EA228180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C184FDCC-F935-416A-BE19-0F96EA228180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C184FDCC-F935-416A-BE19-0F96EA228180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C184FDCC-F935-416A-BE19-0F96EA228180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4784F214-DB27-42E8-A55F-2900740E5F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4784F214-DB27-42E8-A55F-2900740E5F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4784F214-DB27-42E8-A55F-2900740E5F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4784F214-DB27-42E8-A55F-2900740E5F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
